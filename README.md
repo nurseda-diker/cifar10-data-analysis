@@ -27,8 +27,7 @@ Bu proje, CIFAR-10 veri seti kullanılarak yapılan bir görüntü sınıflandı
 ### 3. Derin Öğrenme ile Model Eğitimi
 - 🔢 **One-Hot Encoding:** Sınıflar one-hot encoding ile dönüştürüldü.
 - 🧠 **CNN Modeli:** Bir Convolutional Neural Network (CNN) modeli oluşturuldu ve katmanlar belirlendi.
-- 📜 **Model Özeti ve Derleme:** Modelin özeti çıkarıldı ve model derlendi.
-- 🚀 **Model Eğitimi:** Model eğitilmeye başlandı.
+- 📜 **Model Özeti ve Derleme:** Modelin özeti çıkarıldı, derlendi ve model eğitildi.
 
 ## Model İyileştirme
 - 🛡️ **Overfitting’i Önleme:** Modelin doğruluğunu artırmak ve overfitting’i önlemek amacıyla Dropout, Early Stopping, L1 ve L2 Regularization yöntemleri kullanıldı.
