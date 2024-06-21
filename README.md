@@ -38,9 +38,9 @@ Bu proje, CIFAR-10 veri seti kullanılarak yapılan bir görüntü sınıflandı
 - 📊 **Metriklerin Görselleştirilmesi:** Modellerin doğruluk, kayıp değerleri, F1 Score, Recall gibi metrikler görselleştirildi.
 - 📝 **Yorumlama:** Elde edilen sonuçlar metriklere bakılarak yorumlandı.
 
-Bu çalışma ile CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak başarılı bir görüntü sınıflandırma modeli geliştirilmiş ve iyileştirilmiştir. Proje aşamaları ve sonuçları detaylı bir şekilde raporlanmıştır.
+Bu çalışma ile CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak başarılı bir görüntü sınıflandırma modeli geliştirilmiş ve iyileştirilmiştir. 
 
 ## Ek Bilgiler ve Kaynaklar
 - 📚 **Veri Seti:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
-- 🛠️ **Gereksinimler:** TensorFlow, Keras, NumPy, Matplotlib
+- 🛠️ **Gereksinimler:** TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Sklearn
 
