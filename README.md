@@ -3,29 +3,24 @@ Bu proje, CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin ö�
 
 ## Proje Aşamaları
 ### 1. Veri Ön İşleme
-- 📥 **Veri Setini Yükleme:** CIFAR-10 veri seti yüklendi.
-- 🖼️ **Eğitim ve Test Verilerinin Görselleştirilmesi:** Eğitim ve test veri setindeki görüntülerin boyutları yazdırıldı ve görselleştirildi.
-- 🔄 **Normalizasyon:** Görüntü verileri normalleştirildi.
+ 📊 Bu adım veri setini yükleme, eğitim ve test verilerinin görselleştirilmesi ve normalizasyon işlemlerini içermektedir.
 
 ### 2. Model Eğitimi ve Değerlendirme
-- 🛠️ **Model Oluşturma:** Makine öğrenmesi metodlarından KNN, Decision Tree, SVM, Logistic Regression ve Random Forest algoritmaları kullanılarak modeller oluşturuldu.
-- 📊 **Değerlendirme:** Modellerin karmaşıklık matrisleri oluşturuldu ve görselleştirildi.
-- 📈 **Metrikler:** Modeller Accuracy, F1 Score, Recall ve Precision metriklerine göre değerlendirildi.
+📊 Makine öğrenmesi metodlarından <b>KNN</b>, <b>Decision Tree </b>, <b>SVM</b>, <b>Logistic Regression</b> ve <b>Random Forest</b> algoritmaları kullanılarak modeller oluşturulup accuracy, f1 score, recall ve precision metriklerine göre değerlendirildi .
 
 ### 3. Derin Öğrenme ile Model Eğitimi
-- 🔢 **One-Hot Encoding:** Sınıflar one-hot encoding ile dönüştürüldü.
-- 🧠 **CNN Modeli:** Bir Convolutional Neural Network (CNN) modeli oluşturuldu ve katmanlar belirlendi.
-- 📜 **Model Özeti ve Derleme:** Modelin özeti çıkarıldı, derlendi ve model eğitildi.
+ 📊 Bir Convolutional Neural Network (CNN) modeli oluşturularak katmanlar belirlendi ve model eğitildi.
 
-## Model İyileştirme
-- 🛡️ **Overfitting’i Önleme:** Modelin doğruluğunu artırmak ve overfitting’i önlemek amacıyla Dropout, Early Stopping, L1 ve L2 Regularization yöntemleri kullanıldı.
-- 🔍 **Değerlendirme:** Modelin accuracy ve loss değerleri göz önünde bulundurularak iyileştirmeler yapıldı.
+### 4. Model İyileştirme
+📊 Modelin doğruluğunu artırmak ve overfitting’i önlemek amacıyla <b>Dropout</b>, <b>Early Stopping</b>, <b>L1 ve L2 Regularization</b> yöntemleri kullanıldı.
 
-## Sonuçların Raporlanması
-- 📊 **Metriklerin Görselleştirilmesi:** Modellerin doğruluk, kayıp değerleri, F1 Score, Recall gibi metrikler görselleştirildi.
-- 📝 **Yorumlama:** Elde edilen sonuçlar metriklere bakılarak yorumlandı.
 
-Bu çalışma ile CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak başarılı bir görüntü sınıflandırma modeli geliştirilmiş ve iyileştirilmiştir. 
+## Sonuç Grafikleri
+![accuracy](https://github.com/nurseda-diker/cifar10-data-analysis/assets/54947744/f47618f1-2572-4cc1-8729-8df887df0220)
+![loss](https://github.com/nurseda-diker/cifar10-data-analysis/assets/54947744/d34debf1-baeb-4dd0-ae16-7452630b5be8)
+
+
+
 
 ## Ek Bilgiler ve Kaynaklar
 - 📚 **Veri Seti:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
