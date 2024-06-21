@@ -42,5 +42,5 @@ Bu çalışma ile CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve d
 
 ## Ek Bilgiler ve Kaynaklar
 - 📚 **Veri Seti:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
-- 🛠️ **Gereksinimler:** TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Sklearn
+- 🛠️ **Analizde Kullanılan Kütüphaneler:** TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Sklearn
 
