@@ -1,19 +1,7 @@
 # CIFAR-10 Görüntü Veri Seti Analizi
-
-### Bu proje, CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak yapılan bir görüntü sınıflandırma çalışmasını içerir.
-
-## İçerik
-- Proje Açıklaması
-- Proje Aşamaları
-- Model İyileştirme
-- Sonuçların Raporlanması
-- Ek Bilgiler ve Kaynaklar
-
-## Proje Açıklaması
-Bu proje, CIFAR-10 veri seti kullanılarak yapılan bir görüntü sınıflandırma çalışmasını içermektedir. Amaç, veri setindeki görüntüleri doğru bir şekilde sınıflandırmaktır.
+Bu proje, CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak yapılan bir görüntü sınıflandırma çalışmasını içerir.
 
 ## Proje Aşamaları
-
 ### 1. Veri Ön İşleme
 - 📥 **Veri Setini Yükleme:** CIFAR-10 veri seti yüklendi.
 - 🖼️ **Eğitim ve Test Verilerinin Görselleştirilmesi:** Eğitim ve test veri setindeki görüntülerin boyutları yazdırıldı ve görselleştirildi.
