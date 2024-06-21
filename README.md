@@ -1,5 +1,5 @@
 # CIFAR-10 Görüntü Veri Seti Analizi
-Bu proje, CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak yapılan bir görüntü sınıflandırma çalışmasını içerir.
+Bu proje, [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) veri seti üzerinde çeşitli makine öğrenmesi ve derin öğrenme teknikleri kullanılarak yapılan bir görüntü sınıflandırma çalışmasını içerir.
 
 ## Proje Aşamaları
 ### 1. Veri Ön İşleme
@@ -19,10 +19,4 @@ Bu proje, CIFAR-10 veri seti üzerinde çeşitli makine öğrenmesi ve derin ö�
 ![accuracy](https://github.com/nurseda-diker/cifar10-data-analysis/assets/54947744/f47618f1-2572-4cc1-8729-8df887df0220)
 ![loss](https://github.com/nurseda-diker/cifar10-data-analysis/assets/54947744/d34debf1-baeb-4dd0-ae16-7452630b5be8)
 
-
-
-
-## Ek Bilgiler ve Kaynaklar
-- 📚 **Veri Seti:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
-- 🛠️ **Analizde Kullanılan Kütüphaneler:** TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Sklearn
 
