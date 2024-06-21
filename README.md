@@ -6,13 +6,13 @@ Bu proje, [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) veri seti üze
  📊 Bu adım veri setini yükleme, eğitim ve test verilerinin görselleştirilmesi ve normalizasyon işlemlerini içermektedir.
 
 ### 2. Model Eğitimi ve Değerlendirme
-📊 Makine öğrenmesi metodlarından <b>KNN</b>, <b>Decision Tree </b>, <b>SVM</b>, <b>Logistic Regression</b> ve <b>Random Forest</b> algoritmaları kullanılarak modeller oluşturulup accuracy, f1 score, recall ve precision metriklerine göre değerlendirildi .
+📊 Makine öğrenmesi metodlarından <b>KNN</b>, <b>Decision Tree </b>, <b>SVM</b>, <b>Logistic Regression</b> ve <b>Random Forest</b> algoritmaları kullanılarak modeller oluşturulup accuracy, f1 score, recall ve precision metriklerine göre değerlendirilme aşamalarını içerir .
 
 ### 3. Derin Öğrenme ile Model Eğitimi
- 📊 Bir Convolutional Neural Network (CNN) modeli oluşturularak katmanlar belirlendi ve model eğitildi.
+ 📊 Bir Convolutional Neural Network (CNN) modeli oluşturularak katmanlar belirlenmesi ve model eğitimi adımlarını içerir.
 
 ### 4. Model İyileştirme
-📊 Modelin doğruluğunu artırmak ve overfitting’i önlemek amacıyla <b>Dropout</b>, <b>Early Stopping</b>, <b>L1 ve L2 Regularization</b> yöntemleri kullanıldı.
+📊 Modelin doğruluğunu artırmak ve overfitting’i önlemek amacıyla kullanılan <b>Dropout</b>, <b>Early Stopping</b>, <b>L1 ve L2 Regularization</b> yöntemleri içerir.
 
 
 ## Sonuç Grafikleri
